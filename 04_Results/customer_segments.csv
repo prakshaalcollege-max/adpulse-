@@ -1,0 +1,5 @@
+cluster,customers,orders_12m,avg_order_value_aed,days_since_last_order,discount_order_share,gross_profit_12m_aed,segment,share,profit_share
+0,747,3.9639,237.5286,42.996,0.2756,439.5035,Loyal repeat buyers,0.1868,0.4158
+1,930,1.4398,178.2435,63.7505,0.6474,111.1429,Discount-driven shoppers,0.2325,0.1309
+2,650,1.3077,227.1835,232.8262,0.3141,136.2818,Lapsed one-timers,0.1625,0.1122
+3,1673,1.3802,245.2478,48.3963,0.2387,160.9968,Recent big-basket buyers,0.4182,0.3411

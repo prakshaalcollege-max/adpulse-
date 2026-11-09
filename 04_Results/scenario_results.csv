@@ -1,0 +1,9 @@
+scenario,weekly_spend,weekly_revenue,weekly_contribution,roas,contribution_vs_base_aed_week
+Base case (current allocation),140246.53,407888.5,58547.11,2.91,0.0
+AdPulse optimised allocation,140246.53,442014.81,73873.53,3.15,15326.42
+"Budget +20%, current allocation",168295.84,455031.01,53661.97,2.7,-4885.14
+"Budget +20%, optimised",168295.84,487980.87,68254.64,2.9,9707.53
+"Budget -20%, optimised",112197.23,389700.76,76531.72,3.47,17984.61
+Ad costs +15% (peak-season CPMs),140246.53,375206.13,42503.54,2.68,-16043.57
+"Ad costs +15%, optimised",140246.53,407338.09,57070.35,2.9,-1476.76
+Demand -10% (soft market),140246.53,367099.65,38667.75,2.62,-19879.36

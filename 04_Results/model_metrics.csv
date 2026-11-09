@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,roc_auc
+Random Forest,0.8495,0.9493,0.8075,0.8727,0.9329
+Logistic Regression (baseline),0.8294,0.9443,0.7787,0.8535,0.9339
+Naive rule (always predict majority class),0.6385,,,,0.5
